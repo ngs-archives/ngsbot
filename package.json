@@ -24,7 +24,6 @@
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-gtalk": "^2.0.1",
-    "node-stringprep": "^0.2.3",
     "hubot-browserstack": "ngs/hubot-browserstack",
     "hubot-hotpepper": "ngs/hubot-hotpepper"
   },
