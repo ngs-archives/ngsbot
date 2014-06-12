@@ -27,7 +27,7 @@
     "hubot-browserstack": "ngs/hubot-browserstack",
     "hubot-hotpepper": "ngs/hubot-hotpepper",
     "xml2js": "0.1.14",
-    "hubot-irkit": "^0.1.0"
+    "hubot-irkit": "^0.1.1"
   },
   "engines": {
     "node": ">= 0.8.x",
