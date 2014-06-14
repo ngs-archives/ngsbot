@@ -1,1 +1,1 @@
-app: bin/hubot -a gtalk -n Hubot
+web: bin/hubot -a gtalk -n Hubot -l /
