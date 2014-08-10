@@ -29,7 +29,8 @@
     "hubot-cloudfront": "ngs/hubot-cloudfront",
     "xml2js": "0.1.14",
     "hubot-irkit": "ngs/hubot-irkit",
-    "hubot-alias": "0.0.2"
+    "hubot-alias": "0.0.2",
+    "hubot-suncalc": "ngs/hubot-suncalc"
   },
   "engines": {
     "node": ">= 0.8.x",
