@@ -1,1 +1,1 @@
-web: bin/hubot -a xmpp -n Hubot -l /
+web: bin/hubot -a xmpp -n Hubot
