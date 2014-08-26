@@ -23,13 +23,14 @@
   "dependencies": {
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-scripts": "ngs/hubot-scripts",
-    "hubot-gtalk": "^2.0.1",
+    "hubot-xmpp": "^0.1.11",
     "hubot-browserstack": "ngs/hubot-browserstack",
     "hubot-hotpepper": "ngs/hubot-hotpepper",
     "hubot-cloudfront": "ngs/hubot-cloudfront",
     "xml2js": "0.1.14",
-    "hubot-irkit": "^0.1.2",
-    "hubot-alias": "0.0.2"
+    "hubot-irkit": "ngs/hubot-irkit",
+    "hubot-alias": "0.0.2",
+    "hubot-suncalc": "ngs/hubot-suncalc"
   },
   "engines": {
     "node": ">= 0.8.x",
