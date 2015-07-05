@@ -1,4 +1,10 @@
 [
+  "hubot-browserstack",
+  "hubot-hotpepper",
+  "hubot-cloudfront",
+  "hubot-irkit",
+  "hubot-alias",
+  "hubot-suncalc",
   "hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",
