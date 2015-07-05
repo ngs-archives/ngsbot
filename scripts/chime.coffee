@@ -18,7 +18,7 @@ module.exports = (robot) ->
     if err?
       res.status(403).send err
       return
-    envelope = room: "#{room}@conference.conference.littleapps.xmpp.slack.com"
+    envelope = room: "##{room}"
     robot.send envelope, '何者かが侵入してきました。' + new Date()
     res.end 'OK'
 

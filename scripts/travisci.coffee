@@ -3,7 +3,7 @@
 
 module.exports = (robot) ->
   robot.router.post "/travisci/hooks", (req, res) ->
-    envelope = room: 'travisci@conference.conference.littleapps.xmpp.slack.com'
+    envelope = room: '#travisci'
     { payload } = req.body
     { status_message, build_url, message, number, repository } = JSON.parse payload
     robot.send envelope, """
