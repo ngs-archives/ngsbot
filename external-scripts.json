@@ -1,1 +1,18 @@
-["hubot-browserstack", "hubot-hotpepper", "hubot-irkit", "hubot-alias", "hubot-cloudfront", "hubot-suncalc"]
+[
+  "hubot-browserstack",
+  "hubot-hotpepper",
+  "hubot-cloudfront",
+  "hubot-irkit",
+  "hubot-alias",
+  "hubot-suncalc",
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-heroku-keepalive",
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-pugme",
+  "hubot-maps",
+  "hubot-redis-brain",
+  "hubot-rules",
+  "hubot-shipit"
+]

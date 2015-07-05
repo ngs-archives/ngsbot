@@ -1,1 +1,1 @@
-web: bin/hubot -a xmpp -n Hubot
+web: bin/hubot -a slack
